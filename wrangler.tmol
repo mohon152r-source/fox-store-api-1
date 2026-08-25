@@ -1,0 +1,4 @@
+name = "fox-store-api"
+main = "src/index.js"
+compatibility_date = "2025-05-05"
+compatibility_flags = ["nodejs_compat"]
